@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/GraduationProject/images">
+        <file>images/lineImage.png</file>
+        <file>images/openfile.png</file>
+        <file>images/resetIcon.png</file>
+        <file>images/sasa.png</file>
+        <file>images/sphereedit.png</file>
+    </qresource>
+</RCC>

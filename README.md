@@ -1,0 +1,2 @@
+# PyNR
+PyNR is a virtual screening program. PyNR includes a self implementation of X-Score, Vina, AutoDock and RF-Score scoring functions. It allows you to train the Linear Regression and Random Forest models associated with each scoring functions. It also can understand multiple formats: PDBQT, PDB, MOL2 and SDF. All of this while providing a beautiful and easy to use GUI. Currently the Molecular Viewer is still under development, any contribution to the project is highly appreciated. MinGW C++ Compiler and the QT Framework are required to build the project.
